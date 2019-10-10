@@ -1,0 +1,17 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "Powered by <a href=\"https://github.com/alfredchan3\" target=\"_blank\">Alfred</a>",
+    "postPageSize": 10,
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "Hello",
+    "siteName": "Alfred`s Blog",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "notes"
+  },
+  "customConfig": {}
+}
